@@ -1,0 +1,22 @@
+﻿
+
+Attempting to gather dependency information for package 'Accord.Math.3.8.0' with respect to project 'MuseCSharpLSL', targeting '.NETFramework,Version=v4.7.2'
+Gathering dependency information took 4,53 sec
+Attempting to resolve dependencies for package 'Accord.Math.3.8.0' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'Accord.Math.3.8.0'
+Resolved actions to install package 'Accord.Math.3.8.0'
+Retrieving package 'Accord 3.8.0' from 'nuget.org'.
+Retrieving package 'Accord.Math 3.8.0' from 'nuget.org'.
+Adding package 'Accord.3.8.0' to folder 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\packages'
+Added package 'Accord.3.8.0' to folder 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\packages'
+Added package 'Accord.3.8.0' to 'packages.config'
+Successfully installed 'Accord 3.8.0' to MuseCSharpLSL
+Adding package 'Accord.Math.3.8.0' to folder 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\packages'
+Added package 'Accord.Math.3.8.0' to folder 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\packages'
+Added package 'Accord.Math.3.8.0' to 'packages.config'
+Successfully installed 'Accord.Math 3.8.0' to MuseCSharpLSL
+Executing nuget actions took 3,16 sec
+Time Elapsed: 00:00:08.1458499
+========== Finished ==========
+

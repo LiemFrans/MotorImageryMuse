@@ -1,0 +1,4 @@
+﻿[Failure] Could not find file 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\MuseCSharpLSL\Stimulus - Copy.Designer.cs'.
+[Failure] Could not find file 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\MuseCSharpLSL\Stimulus - Copy.cs'.
+[Failure] Could not find file 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\MuseCSharpLSL\Stimulus.cs'.
+[Failure] Could not find file 'D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\MuseCSharpLSL\Stimulus.Designer.cs'.
