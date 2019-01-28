@@ -1,0 +1,6 @@
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\Math\bin\Debug\Math.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\Math\bin\Debug\Math.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\Math\obj\Debug\Math.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\Math\obj\Debug\Math.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\Math\obj\Debug\Math.csprojAssemblyReference.cache

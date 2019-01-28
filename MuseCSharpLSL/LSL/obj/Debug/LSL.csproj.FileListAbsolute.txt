@@ -1,0 +1,10 @@
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\bin\Debug\LSL.dll.config
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\bin\Debug\LSL.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\bin\Debug\LSL.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\MuseCSharpLSL\bin\Debug\LSL.dll.config
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\MuseCSharpLSL\bin\Debug\LSL.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\MuseCSharpLSL\bin\Debug\LSL.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\obj\Debug\LSL.csprojAssemblyReference.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\obj\Debug\LSL.csproj.CoreCompileInputs.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\obj\Debug\LSL.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCsharpLSL\LSL\obj\Debug\LSL.pdb

@@ -1,0 +1,9 @@
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\bin\Debug\LinearTimeInvariantProperties.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\bin\Debug\LinearTimeInvariantProperties.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\bin\Debug\DataType.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\bin\Debug\DataType.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\obj\Debug\LinearTimeInvariantProperties.csprojAssemblyReference.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\obj\Debug\LinearTimeInvariantProperties.csproj.CoreCompileInputs.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\obj\Debug\LinearTimeInvariantProperties.csproj.CopyComplete
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\obj\Debug\LinearTimeInvariantProperties.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\LinearTimeInvariantProperties\obj\Debug\LinearTimeInvariantProperties.pdb
