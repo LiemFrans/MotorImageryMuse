@@ -1,0 +1,17 @@
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\BCICompetitionUI.exe.config
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\BCICompetitionUI.exe
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\BCICompetitionUI.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.csprojAssemblyReference.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.FormProcess.resources
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.Properties.Resources.resources
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.csproj.GenerateResource.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.csproj.CoreCompileInputs.cache
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.exe
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\Butterworth.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\LinearTimeInvariantProperties.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\DataType.dll
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\Butterworth.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\LinearTimeInvariantProperties.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\bin\Debug\DataType.pdb
+D:\Clouds\Google Drive\Dari Dropbox\FILKOM - IF\Semester 7\Skripsi\MuseCSharpLSL\BCICompetitionUI\obj\Debug\BCICompetitionUI.csproj.CopyComplete
